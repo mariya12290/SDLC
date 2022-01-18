@@ -99,15 +99,6 @@ Pros:
 * improved collaboratio between developer and the operation team 
 * CI/CD ensure faster time to market
 
-What are arUco markers?
-
-* An aruco marker is a  fiducial marker that is placed on the object or scene being imaged. It  is a binary square with black background and boundaries and a white  generated pattern within it that uniquely identifies it. The black  boundary helps making their detection **easier**. They can be generated in a variety of sizes.
-* Checkerboard
-
-Navigation:
-
-* Used motion planning alogrithm to naviagte from point A to point B, using landmarks straight move planner.
-
 
 
 ### Functional Safety:
@@ -125,16 +116,6 @@ automotive safety integration level (ASIL)
 goal.
 
 SO basically, When developing any E/E components in automotive, each development phase should be comply with the ISO 26262 standards. 
-
-
-
-### Why elektrobit?
-
-SInce EB is a leading supplier of embbeded software for connected and autonomoius driving functionalites, I can get the opportunity to work with different technilogies, such as connectivity, autonomous driving depending upon the projects and also can directly interact with the leading automakers to get their requirements in developing and brining the safe autonomous vehicle onto the road.
-
-Have products in positioning, connected vehicles, ECU, ADAS, security and remote data collection and simulation 
-
-
 
 
 
